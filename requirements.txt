@@ -1,0 +1,80 @@
+# Biblioteca que proporciona una interfaz de referencia para la capa de manejo de peticiones y respuestas HTTP en Django.
+asgiref==3.8.1
+
+# Biblioteca Python que simplifica la definición de clases con atributos.
+attrs==23.2.0
+
+# Colección de certificados SSL de confianza, utilizada para verificar la autenticidad de las conexiones HTTPS.
+certifi==2024.2.2
+
+# Biblioteca para normalizar los nombres de los conjuntos de caracteres en Python.
+charset-normalizer==3.3.2
+
+# Biblioteca para cifrar y descifrar datos de forma segura en Python.
+cryptography==42.0.5
+
+# Módulo incorporado en Python 3.7+ que proporciona una forma de definir clases de datos sin tener que escribir métodos especiales como __init__ y __repr__.
+dataclasses==0.6
+
+# Framework web de alto nivel escrito en Python que permite el desarrollo rápido de aplicaciones web seguras y mantenibles.
+Django==5.0.4
+
+# Biblioteca para manejar nombres de dominio internacionalizados (IDN) en Python.
+idna==3.7
+
+# Biblioteca para trabajar con fechas y horas en formato ISO 8601 en Python.
+isodate==0.6.1
+
+# Biblioteca para el procesamiento de documentos XML y HTML en Python.
+lxml==5.2.1
+
+# Backend de base de datos para Django que proporciona soporte para Microsoft SQL Server.
+mssql-django==1.4
+
+# Gestor de paquetes de Python, utilizado para instalar y administrar paquetes de Python.
+pip==24.0
+
+# Biblioteca para obtener directorios de plataforma específicos en Python.
+platformdirs==4.2.0
+
+# Analizador de sintaxis de C escrito en Python.
+pycparser==2.22
+
+# Biblioteca que proporciona funcionalidades para trabajar con zonas horarias en Python.
+pytz==2024.1
+
+# Biblioteca HTTP para Python, utilizada para enviar solicitudes HTTP fácilmente.
+requests==2.31.0
+
+# Extensión de Requests para trabajar con archivos locales y rutas de archivos.
+requests-file==2.0.0
+
+# Conjunto de herramientas adicionales para la biblioteca Requests, que proporciona funcionalidades adicionales como manejo de cookies y autenticación.
+requests-toolbelt==1.0.0
+
+# Conjunto de herramientas para distribuir y trabajar con paquetes Python.
+setuptools==65.5.0
+
+# Biblioteca que proporciona funcionalidades para escribir código compatible con Python 2 y 3.
+six==1.16.0
+
+# Biblioteca para construir y exponer servicios web SOAP y RPC en Python.
+spyne==2.14.0
+
+# Analizador de SQL para Python, utilizado para analizar y formatear consultas SQL.
+sqlparse==0.5.0
+
+# Extensiones para el módulo typing en Python, que proporciona funcionalidades adicionales para trabajar con tipos.
+typing_extensions==4.11.0
+
+# Datos de zona horaria actualizados para Python.
+tzdata==2024.1
+
+# Biblioteca HTTP para Python, utilizada como dependencia para la biblioteca Requests.
+urllib3==2.2.1
+
+# Para convertir un XML en un diccionario en Python
+xmltodict==0.12.0
+
+# Para ejecutar el script de descifrado AES256
+cryptography==42.0.5
